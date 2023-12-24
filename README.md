@@ -2,7 +2,7 @@
 
 Im a passionate Game Developer 🎮 with an enthusiatic perspective on both gaming and its development.I always love to create  complex mechanics in games with an immersing gameplay experience and I love learning and always spend more time learning and recreating mechanisms from famous releases.
 
-Check out some of works here 👇:
+Check out some of my works here 👇:
 
 | Project  | Description |
 | -------- | -------- |
